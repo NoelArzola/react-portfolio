@@ -1,9 +1,9 @@
 {
   "main": {
     "name": "Noel Arzola",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
+    "occupation": "Full Stack Developer && Teaching Assistant to aspiring Developers at Skillcrush",
+    "description": "Full Stack Developer, Short Stack Devourer",
+    "image": "DSC_0325.png",
     "bio": "My name is Noel, I'm a Full Stack ReactJS Developer. Currently I'm working at Skillcrush while also freelancing.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "noel@noelarzola.com",
@@ -14,7 +14,7 @@
       "state": "WV",
       "zip": "ABC 123"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.noelarzola.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
@@ -53,8 +53,8 @@
       },
       {
         "company": "Arzola Solutions",
-        "title": "Developer",
-        "years": "December 2019 - Present",
+        "title": "Full Stack Developer",
+        "years": "August 2019 - Present",
         "description": "Working with small businesses and individuals to establish a fast, modern, online web prescence."
       }
     ],
@@ -82,20 +82,24 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS",
+        "image": "clone-fac52-web-app-1024x768desktop-b01531.jpg",
+        "url": "https://clone-fac52.web.app/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "Chic Next Door",
+        "category": "Custom WordPress theming with custom pages and custom post types",
         "image": "tiktok-mern.jpeg",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
